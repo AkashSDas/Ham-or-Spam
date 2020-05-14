@@ -139,7 +139,7 @@ This will install all the dependencies and create a **Pipfile.lock** (this shoul
 ```bash
 pipenv shell
 ```
-- dataset, jupyter notebook and model are in `'Ham-or-Spam'/requirements.txt/src` folder.
+- dataset, jupyter notebook and model are in `'Ham-or-Spam'/venv/src` folder.
 ```bash
 cd src/
 ```
